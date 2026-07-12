@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0D1220"/>
+      <stop offset="50%"  stop-color="#181235"/>
+      <stop offset="100%" stop-color="#0C2624"/>
+    </linearGradient>
+
+    <radialGradient id="glow1" cx="14%" cy="50%" r="42%">
+      <stop offset="0%" stop-color="#6E5BFF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#6E5BFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="86%" cy="50%" r="42%">
+      <stop offset="0%" stop-color="#1FB6A6" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#1FB6A6" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="textgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#B7ACFF"/>
+      <stop offset="50%"  stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#7CEFE6"/>
+    </linearGradient>
+
+    <linearGradient id="linegrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#6E5BFF"/>
+      <stop offset="100%" stop-color="#1FB6A6"/>
+    </linearGradient>
+
+    <linearGradient id="bordergrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#6E5BFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#1FB6A6" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="178" fill="url(#bg)" rx="14"/>
+  <rect x="1" y="1" width="898" height="178" fill="url(#glow1)" rx="14"/>
+  <rect x="1" y="1" width="898" height="178" fill="url(#glow2)" rx="14"/>
+  <rect x="1" y="1" width="898" height="178" fill="none" stroke="url(#bordergrad)" stroke-width="1" rx="14"/>
+
+  <rect x="0" y="0" width="900" height="2.5" fill="url(#linegrad)"/>
+  <rect x="0" y="177.5" width="900" height="2.5" fill="url(#linegrad)"/>
+
+  <g opacity="0.10" fill="#ffffff">
+    <circle cx="42"  cy="34"  r="1.4"/>
+    <circle cx="70"  cy="34"  r="1.4"/>
+    <circle cx="98"  cy="34"  r="1.4"/>
+    <circle cx="42"  cy="58"  r="1.4"/>
+    <circle cx="70"  cy="58"  r="1.4"/>
+    <circle cx="98"  cy="58"  r="1.4"/>
+  </g>
+  <g opacity="0.10" fill="#ffffff">
+    <circle cx="802" cy="128" r="1.4"/>
+    <circle cx="830" cy="128" r="1.4"/>
+    <circle cx="858" cy="128" r="1.4"/>
+    <circle cx="802" cy="152" r="1.4"/>
+    <circle cx="830" cy="152" r="1.4"/>
+    <circle cx="858" cy="152" r="1.4"/>
+  </g>
+
+  <g opacity="0.20" stroke-width="1.4" fill="none">
+    <path d="M 30,150 C 55,150 60,120 85,118 C 105,116 105,95 128,90"
+          stroke="#6E5BFF" stroke-linecap="round"/>
+    <path d="M 30,160 C 55,160 60,136 85,132 C 105,129 105,112 128,105"
+          stroke="#1FB6A6" stroke-linecap="round"/>
+    <circle cx="128" cy="90"  r="2.6" fill="#6E5BFF"/>
+    <circle cx="128" cy="105" r="2.6" fill="#1FB6A6"/>
+  </g>
+
+  <text x="46" y="112" font-family="Georgia, serif" font-size="60" fill="#6E5BFF" opacity="0.14">{</text>
+  <text x="836" y="112" font-family="Georgia, serif" font-size="60" fill="#1FB6A6" opacity="0.14">}</text>
+
+  <text
+    x="450" y="90"
+    text-anchor="middle"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="46"
+    font-weight="700"
+    fill="url(#textgrad)"
+    letter-spacing="1.5"
+  >Suresh A</text>
+
+  <circle cx="612" cy="79" r="7" fill="#6E5BFF"/>
+  <polyline points="608,79 611,83 617,74" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="330" y="103" width="240" height="1.4" fill="url(#linegrad)" opacity="0.55" rx="1"/>
+
+  <text
+    x="450" y="132"
+    text-anchor="middle"
+    font-family="'Courier New', monospace"
+    font-size="14"
+    fill="#A6B0D6"
+    letter-spacing="2.6"
+  >DATA ANALYST &#183; AI &amp; DATA SCIENCE</text>
+
+  <text
+    x="450" y="156"
+    text-anchor="middle"
+    font-family="'Segoe UI', Arial, sans-serif"
+    font-size="11.5"
+    fill="#6E7899"
+    letter-spacing="1"
+  >Chennai, India &#183; github.com/suresh078</text>
+</svg>
