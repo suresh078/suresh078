@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER: using svg-banners which is more reliable than capsule-render -->
-<img width="100%" src="https://svg-banners.vercel.app/api?type=luminance&amp;text1=Suresh%20A&amp;text2=%F0%9F%93%8A%20Data%20Analyst%20%7C%20AI%20%26%20Data%20Science&amp;width=900&amp;height=180" alt="Suresh A — Data Analyst"/>
+<!-- HEADER: custom SVG — add banner.svg to this same repo -->
+<img width="100%" src="banner.svg" alt="Suresh A — Data Analyst"/>
 
 <!-- Typing animation — demolab is stable -->
 <a href="https://git.io/typing-svg">
