@@ -1,20 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=6E5BFF,1FB6A6&amp;height=180&amp;section=header&amp;text=Suresh+A&amp;fontSize=68&amp;fontAlignY=38&amp;desc=Data+Analyst+%7C+AI+%26+Data+Science&amp;descAlignY=60&amp;fontColor=FFFFFF&amp;descColor=E0E0E0&amp;animation=fadeIn" />
+<!-- HEADER: using svg-banners which is more reliable than capsule-render -->
+<img width="100%" src="https://svg-banners.vercel.app/api?type=luminance&amp;text1=Suresh%20A&amp;text2=%F0%9F%93%8A%20Data%20Analyst%20%7C%20AI%20%26%20Data%20Science&amp;width=900&amp;height=180" alt="Suresh A — Data Analyst"/>
 
+<!-- Typing animation — demolab is stable -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=6E5BFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I'm+Suresh+A!;Data+Analyst+%40+DIVO+%7C+Warner+Music+India;AI+%26+Data+Science+Student;Turning+raw+data+into+clear+decisions;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=6E5BFF&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Hi+there%2C+I'm+Suresh+A!;Data+Analyst+%40+DIVO+%7C+Warner+Music+India;AI+%26+Data+Science+Student;Turning+raw+data+into+clear+decisions;Always+learning%2C+always+building." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=suresh078&amp;label=Profile+Views&amp;color=6E5BFF&amp;style=flat-square" alt="Profile Views" />
+<!-- These badges use shields.io — always reliable -->
+<img src="https://komarev.com/ghpvc/?username=suresh078&amp;label=Profile+Views&amp;color=6E5BFF&amp;style=flat-square" alt="Profile Views"/>
 &nbsp;
 <a href="https://www.linkedin.com/in/suresh78"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
 &nbsp;
 <a href="https://portfolio-seven-lemon-m7i8k3f9qm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1FB6A6?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
 &nbsp;
-<a href="mailto:suresh78as@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email+Me-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="mailto:suresh78as@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
 &nbsp;
 <a href="https://wa.me/919042088400"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&amp;logo=whatsapp&amp;logoColor=white" /></a>
 
@@ -51,11 +54,11 @@ suresh = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Apps_Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Analytics & Visualisation**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +67,7 @@ suresh = {
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 
 **Tools**
@@ -83,8 +86,8 @@ suresh = {
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🧾 **Smart Petition Analysis AI Dashboard** | OCR + AI pipeline to auto-extract, classify and route handwritten petitions — eliminating manual reading in governance workflows | `OCR` `NLP` `Python` |
-| 🤖 **AI-Driven Public Health Chatbot** | NLP chatbot that absorbs first-level symptom queries and routes to the right health services | `NLP` `Python` `Dialogflow` |
-| 🎬 **Netflix Movies & TV Shows Analysis** | Cleaned a sprawling Netflix catalog dataset and surfaced genre, country and format trends | `Pandas` `Seaborn` `Matplotlib` |
+| 🤖 **AI-Driven Public Health Chatbot** | NLP chatbot that handles first-level symptom queries and routes to the right health services | `NLP` `Python` `Dialogflow` |
+| 🎬 **Netflix Movies & TV Shows Analysis** | Cleaned a large Netflix catalog dataset and surfaced genre, country and format trends | `Pandas` `Seaborn` `Matplotlib` |
 
 ---
 
@@ -104,13 +107,21 @@ suresh = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=suresh078&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=86400" alt="GitHub Stats" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh078&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;cache_seconds=86400" alt="Top Languages" />
+<!-- github-profile-summary-cards — different provider, more reliable -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh078&amp;theme=tokyonight" width="100%" alt="Profile Summary"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=suresh078&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suresh078&amp;theme=tokyonight" width="32%" alt="Repos per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suresh078&amp;theme=tokyonight" width="32%" alt="Most Commit Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suresh078&amp;theme=tokyonight" width="32%" alt="Stats"/>
+
+<br/><br/>
+
+<!-- Streak stats — proven to work for you -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=suresh078&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -127,7 +138,7 @@ suresh = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suresh078&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;color=6E5BFF&amp;line=1FB6A6&amp;point=F5A623" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suresh078&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;color=6E5BFF&amp;line=1FB6A6&amp;point=F5A623" alt="Contribution Graph"/>
 
 </div>
 
@@ -149,6 +160,6 @@ suresh = {
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=6E5BFF,1FB6A6&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
+![footer](https://img.shields.io/badge/Chennai%2C%20Tamil%20Nadu%20%F0%9F%87%AE%F0%9F%87%B3-Made%20with%20%E2%9D%A4-6E5BFF?style=flat-square)
 
 </div>
