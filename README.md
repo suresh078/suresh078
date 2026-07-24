@@ -1,182 +1,230 @@
 <div align="center">
 
-<img width="100%" src="https://svg-banners.vercel.app/api?type=luminance&text1=Suresh%20A&text2=%F0%9F%93%8A%20Data%20Analyst%20%7C%20AI%20%26%20Data%20Science&width=900&height=180" alt="Suresh A — Data Analyst"/>
+<img src="./banner.svg" width="100%" alt="Suresh A banner"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6E5BFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Suresh+A!;Data+Analyst+%40+DIVO+%7C+Warner+Music+India;Final-Year+AI+%26+Data+Science+Student;Turning+raw+data+into+clear+decisions;Building+dashboards%2C+pipelines+%26+AI+tools." alt="Typing SVG" />
-</a>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=900&color=C9A24B&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions;Building+AI-powered+dashboards+%26+tools;B.Tech+AI+%26+Data+Science+%7C+2027;Open+to+Data+Analyst+%2F+AI-ML+roles" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=suresh078&label=Profile+Views&color=6E5BFF&style=flat-square" alt="Profile Views"/>
-&nbsp;
-<a href="https://www.linkedin.com/in/suresh78"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://portfolio-seven-lemon-m7i8k3f9qm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1FB6A6?style=flat-square&logo=vercel&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:suresh78as@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://drive.usercontent.google.com/download?id=1RPfm_K_wWM0R9eKNdyvv-Q7nXv6mhp2W&export=download&authuser=0"><img src="https://img.shields.io/badge/Resume-Download-F5A623?style=flat-square&logo=googledrive&logoColor=white" /></a>
+<br><br>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open%20to%20Data%20Analyst%20%2F%20AI%20Roles-6E5BFF?style=for-the-badge" alt="Open to work"/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit%20site-C9A24B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0B0D10)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0D10)](https://linkedin.com/in/suresh78)
+[![Gmail](https://img.shields.io/badge/EMAIL-reach%20out-C9A24B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0D10)](mailto:suresh78as@gmail.com)
+[![Profile Views](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0B0D10&color=6F8FAE&label=PROFILE%20VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsuresh078%2Freadme)](https://github.com/suresh078)
 
 </div>
 
----
+<br>
 
-## 👋 About Me
-
-AI and Data Science learner who builds efficient, ethical, data-driven solutions to real problems — not just dashboards for their own sake. Currently completing my final year while applying that mindset in production settings and side projects alike.
+## 🧭 About Me
 
 ```python
-suresh = {
-    "role"       : "Data Analyst · AI/ML Enthusiast",
-    "location"   : "Chennai, Tamil Nadu 🇮🇳",
-    "education"  : "B.Tech AI & Data Science, 2023–2027 (Final Year)",
-    "experience" : "Data Analyst Intern @ DIVO · Warner Music India",
-    "status"     : "Open to Data Analyst / AI-ML opportunities",
-    "languages"  : ["Tamil (native)", "English (fluent)"],
-    "building"   : ["AI-powered analytics dashboards",
-                    "RAG-based multilingual chatbots",
-                    "Full-stack media platform architecture"],
-}
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Suresh A"
+        self.location = "Chennai, Tamil Nadu, India"
+        self.degree = "B.Tech — AI & Data Science  (2023 – 2027)"
+        self.focus = ["Data Analysis", "Machine Learning", "Automation", "AI Dashboards"]
+        self.status = "Open to opportunities"
+
+    def philosophy(self):
+        return "Efficient, ethical, and data-driven solutions — always."
+
+me = DataAnalyst()
 ```
 
-> *I don't just report numbers — I build the systems that make them actionable.*
+- 🎓 Currently pursuing **B.Tech in Artificial Intelligence and Data Science**
+- 💼 Interned as a **Data Analyst** at a **Warner Music India Group** company
+- 📊 Building **AI-powered dashboards** and automation tools that solve real problems
+- 🌱 Constantly leveling up — most recently in applied ML and NLP
+- ⚡ Fun fact: I'd rather automate a task once than repeat it a hundred times
 
----
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,figma,vscode&theme=dark" /><br><br>
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**📊 Data Analysis & Reporting**
+Excel · Power BI · SQL · Python
+Google Data Analytics · Google Trends · YouTube Analytics
+
+**🔧 Automation & Scripting**
+Google Apps Script · AppSheet · Dialogflow
+
+</td>
+<td valign="top" width="50%">
+
+**📋 Program Management**
+JIRA · Google Sheets
+
+**🔌 APIs & Integrations**
+Google Drive API · YouTube Content ID API
+YouTube Reporting & Data API
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suresh078&show_icons=true&theme=react&hide_border=true&bg_color=0B0D10&title_color=C9A24B&icon_color=C9A24B&text_color=F7F6F3&cache_seconds=3600" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=suresh078&theme=react&hide_border=true&background=0B0D10&ring=C9A24B&fire=C9A24B&currStreakLabel=C9A24B" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh078&layout=compact&theme=react&hide_border=true&bg_color=0B0D10&title_color=C9A24B&text_color=F7F6F3&langs_count=8&cache_seconds=3600" height="165"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suresh078&theme=react-dark&hide_border=true&bg_color=0B0D10&color=C9A24B&line=C9A24B&point=F7F6F3" width="98%"/>
+
+</div>
+
+> 💡 If a card above shows "Error fetching resource," it's almost always the free Vercel demo server being rate-limited — it usually clears on a refresh within a few minutes.
+
+<br>
 
 ## 🎓 Education
 
-| Period | Institution | Details |
-|--------|-------------|---------|
-| 2023 – 2027 | Prince Dr K Vasudevan College of Engineering and Technology | B.Tech, Artificial Intelligence & Data Science — *in progress* |
-| 2022 – 2023 | Suddhananda Vidyalaya Matric Hr. Sec. School | Higher Secondary — *completed* |
+<table>
+<tr><th>Period</th><th>Institution</th><th>Program</th><th>Status</th></tr>
+<tr>
+<td><code>2023 – 2027</code></td>
+<td>Prince Dr K Vasudevan College of Engineering and Technology</td>
+<td>B.Tech, Artificial Intelligence &amp; Data Science</td>
+<td>🟢 In Progress</td>
+</tr>
+<tr>
+<td><code>2022 – 2023</code></td>
+<td>Suddhananda Vidyalaya Matric Hr. Sec. School</td>
+<td>High School</td>
+<td>✅ Completed</td>
+</tr>
+</table>
 
----
-
-## 🛠️ Skills & Expertise
-
-<div align="center">
-
-**Data Analysis & Reporting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google_Analytics](https://img.shields.io/badge/Google_Data_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-**Automation, Scripting & APIs**
-
-![Apps_Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google_Drive_API](https://img.shields.io/badge/Google_Drive_API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![YouTube_API](https://img.shields.io/badge/YouTube_Data_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-**Machine Learning & AI**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
-
-**Tools & Program Management**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Soft skills:** Project Management · Process Optimization · Analytical Thinking · Leadership & Team Management · Stakeholder Communication
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🧾 **Smart Petition Analysis & AI Dashboard** *(ongoing)* | Replaces manual, handwritten petition reading in a governance workflow with OCR-based extraction, AI issue classification, and automated routing to the right officer | `OCR` `AI/NLP` `Python` `Dashboard` |
-| 🤖 **AI-Driven Public Health Chatbot** | NLP chatbot that resolves first-level symptom queries and routes users to the correct public health service, cutting basic-inquiry load on staff | `AI` `NLP` `Python` `Chatbot Framework` |
-| 🎬 **Netflix Movies & TV Shows Data Analysis** | Cleaned and analysed a large, unstructured Netflix catalog to surface genre trends, global distribution, and format comparisons | `Pandas` `NumPy` `Matplotlib` `Seaborn` |
-| 🌐 **Personal Portfolio & Link-Hub** | Editorial-style personal site with project deep-dives, skills index, and one-click resume download — deployed on Vercel | `HTML` `CSS` `JS` |
-
-*In progress: a RAG-based multilingual tourist assistant (FastAPI + LangChain + Chroma) and Signalhouse, a full-stack media management platform.*
-
----
+<br>
 
 ## 💼 Experience
 
-**🎵 Data Analyst Intern — DIVO · Warner Music India**
-`Jun 2025 – Aug 2025`
+<table>
+<tr>
+<td width="120">
+<img src="./divo-logo.png" width="100" alt="DIVO"/>
+</td>
+<td>
 
-- Analysed channel performance data across **500+ creators** at one of South India's largest MCNs, identifying content trends, audience behavior, and growth opportunities
-- Built an AI-powered dashboard to track content and revenue metrics in one place, replacing manual spreadsheet reporting for the team
-- Worked with **PyDejavu** and **Olaf** to support an audio fingerprinting tool for music asset identification and database management
-- Surfaced content and audience trends that informed data-driven decisions on revenue improvement
+### Data Analyst — Intern
+**DIVO** · *Warner Music India Group Company*
+`Jun 2025 → Aug 2025`
 
----
+Worked with a leading South Indian MCN managing **500+ creators**, music assets, and YouTube channels.
 
-## 📊 GitHub Stats
+- 📊 Analyzed multi-channel performance data to surface content trends, audience behavior & revenue patterns
+- 🤖 Built an **AI-powered analytical dashboard** for real-time metric tracking and decision-making
+- 🎧 Used **PyDejavu** & **Olaf** to help build an audio fingerprinting tool for music asset identification
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🗂️ Smart Petition Analysis
+**AI + OCR + Governance Automation**
+
+Replaces manual handwritten petition reading with an AI/OCR system for instant extraction, classification & routing.
+
+`OCR` `AI/NLP` `Python` `Dashboard`
+
+</td>
+<td width="33%" valign="top">
+
+### 🩺 Public Health Chatbot
+**AI + NLP + Healthcare**
+
+NLP chatbot offering first-level symptom guidance and routing users to the right public health service.
+
+`AI` `NLP` `Python` `ML`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎬 Netflix Data Analysis
+**Data Analysis + Visualization**
+
+Turns unstructured Netflix catalog data into insights on genre trends, geography & format.
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📜 Certifications
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh078&theme=tokyonight" width="100%" alt="Profile Summary"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suresh078&theme=tokyonight" width="32%" alt="Repos per Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suresh078&theme=tokyonight" width="32%" alt="Most Commit Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suresh078&theme=tokyonight" width="32%" alt="Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=suresh078&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+![Networking](https://img.shields.io/badge/Networking%20Certification-Naan%20Mudhalvan-6F8FAE?style=for-the-badge&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20Certification-GUVI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
----
+<br>
 
-## 🏆 Certifications
-
-- ✅ **Networking Certification** — Naan Mudhalvan
-- ✅ **Python Certification** — GUVI
-
----
-
-## 📈 Contribution Graph
+## 🌐 Languages
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suresh078&theme=tokyo-night&hide_border=true&area=true&color=6E5BFF&line=1FB6A6&point=F5A623" alt="Contribution Graph"/>
+`🟢 Tamil` — Read · Write · Speak &nbsp;&nbsp;•&nbsp;&nbsp; `🟢 English` — Read · Write · Speak
 
 </div>
 
----
+<br>
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/suresh78"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.instagram.com/suresh_.o8/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:suresh78as@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://wa.me/919042088400"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-&nbsp;
-<a href="https://portfolio-seven-lemon-m7i8k3f9qm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-C9A24B?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suresh78)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suresh78as@gmail.com)
+[![Phone](https://img.shields.io/badge/-%2B91%2090420%2088400-6F8FAE?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919042088400)
 
-<br/><br/>
+<br><br>
 
-![footer](https://img.shields.io/badge/Chennai%2C%20Tamil%20Nadu%20%F0%9F%87%AE%F0%9F%87%B3-Made%20with%20%E2%9D%A4-6E5BFF?style=flat-square)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<br>
+
+<img src="./footer.svg" width="100%" alt="footer"/>
 
 </div>
