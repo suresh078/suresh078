@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Suresh A banner"/>
+<img src="./Banner.svg" width="100%" alt="Suresh A banner"/>
 
 <br>
 
@@ -225,6 +225,6 @@ Turns unstructured Netflix catalog data into insights on genre trends, geography
 
 <br>
 
-<img src="./footer.svg" width="100%" alt="footer"/>
+<img src="./Footer.svg" width="100%" alt="footer"/>
 
 </div>
