@@ -1,0 +1,18 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1C2028"/>
+      <stop offset="100%" stop-color="#0B0D10"/>
+    </linearGradient>
+    <linearGradient id="linef" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C9A24B" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C9A24B" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#C9A24B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="90" fill="url(#bgf)"/>
+  <line x1="0" y1="14" x2="1200" y2="14" stroke="url(#linef)" stroke-width="1"/>
+  <text x="600" y="56" font-family="'Courier New', monospace" font-size="13" letter-spacing="1.5" fill="#9AA0AA" text-anchor="middle">
+    &#169; 2026 SURESH A &#160;&#8226;&#160; BUILT WITH DATA, CURIOSITY &amp; A LITTLE CAFFEINE
+  </text>
+</svg>
